@@ -6,12 +6,12 @@ The goal of the project is to understand the key drivers of churn and summarize 
 🔗 **Telco Customer Churn Dataset**  
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 
-![Slide1](Slides/Slide1.jpg)
-![Slide2](Slides/Slide2.jpg)
-![Slide3](Slides/Slide3.jpg)
-![Slide4](Slides/Slide4.jpg)
-![Slide5](Slides/Slide5.jpg)
-![Slide6](Slides/Slide6.jpg)
+![Slide1](./Slides/Slide1.JPG)
+![Slide2](./Slides/Slide2.JPG)
+![Slide3](./Slides/Slide3.JPG)
+![Slide4](./Slides/Slide4.JPG)
+![Slide5](./Slides/Slide5.JPG)
+![Slide6](./Slides/Slide6.JPG)
 
 ### 📌 Notes
 - This Markdown file reuses the original PowerPoint slides as images for clarity and consistency.
