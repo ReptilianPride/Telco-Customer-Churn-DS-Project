@@ -1,5 +1,5 @@
 # Telco Customer Churn Case Study
-## Data Science Project
+## Data Science Project (Python=3.12.12)
 This repository presents a **customer churn analysis** for a telecommunications company.    
 The goal of the project is to understand the key drivers of churn and summarize insights derived from exploratory data analysis and modeling.  
 
